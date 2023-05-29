@@ -1,0 +1,38 @@
+/* Header */
+header {
+    text-align: center ;
+    background-color: #E6E6E6;
+    
+}
+/* Titulo */
+#tituloHV{  
+ letter-spacing: 0.30em;
+ font-size: 35px;
+ font-weight: 700;
+ line-height: 84.69%;
+ text-align: center;
+ text-transform: uppercase ;
+ color: #005677;
+ background-color: #C4C4C4;
+}
+/* Subtitulos */
+.SubtitulosContenido{
+    letter-spacing: 0.30em;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    color: #005677;
+}
+/* infor personal */
+.infoPersonal{
+    letter-spacing: 0.30em;
+    font-style: italic;
+    font-weight: bold;
+}
+.infoAcademica{
+    letter-spacing: 0.30em;
+    font-weight: bold;
+}
+.infoLaboral{
+    letter-spacing: 0.30em;
+    font-weight: bold;
+}
